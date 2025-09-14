@@ -5,8 +5,8 @@
 # Lily-Rose-0
 
 # 16 knots 
-A major choice 
-One loop 
-Pick up item 
-Change Stat
-Visited places
+Line 29 - A major choice 
+Line 81 - One loop 
+Line 61 - Pick up item 
+Line 65 - Change Stat
+Line 60 - Visited places
