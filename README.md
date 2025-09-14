@@ -1,7 +1,12 @@
 # Project-01
 
-# Your Name
+# Lillian Hagedorn
 
-# Your Github username
+# Lily-Rose-0
 
-# List the things you added for points
+# 16 knots 
+A major choice 
+One loop 
+Pick up item 
+Change Stat
+Visited places
